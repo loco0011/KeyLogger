@@ -4,7 +4,7 @@ The purpose of the project is to test the security of information systems
 
 ## INSTALLATION
 
-**You don't need to do anything for installation just run the script or run exe file**
+**You don't need to do anything for installation just run the script or run the exe file**
 
 ![github-small](/images/Adsız.png)
 
