@@ -1,6 +1,6 @@
 # Inputs To Mail.
-Get Keyboard,Mouse,ScreenShot,Microphone Inputs and Send to your Mail.
-Purpose of the project is testing the security of information systems
+Get Keyboard Inputs and Send to your Mail.
+The purpose of the project is to test the security of information systems
 
 ## INSTALLATION
 
@@ -21,7 +21,7 @@ Purpose of the project is testing the security of information systems
 
 •**python3 keylogger.py**
 
-•**Every 10 seconds,You Get the Data from the Target Computer**
+•**Every 300 words, You Get the Data from the Target Computer**
 
 •**If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.**
 
@@ -32,21 +32,29 @@ Purpose of the project is testing the security of information systems
 
 ![github-small](/images/2.png)
 
+
+## ERROR
+"Connection unexpectedly closed"
+
+1. Enable "Less secure apps" access (Not Recommended):
+Go to your Google Account settings: https://myaccount.google.com/
+Click on "Security" in the left menu.
+Under "Signing in to Google," click on "Less secure app access."
+Turn on "Allow less secure apps." Please note that this option is less secure and not recommended by Google. Use it only for testing purposes or if you have difficulty with app passwords.
+
+2. Use an App Password (Recommended):
+Go to your Google Account settings: https://myaccount.google.com/
+Click on "Security" in the left menu.
+Under "Signing in to Google," click on "App passwords."
+If prompted, sign in to your Google account.
+Click on "Select app" and choose "Mail."
+Click on "Select device" and choose "Other (Custom name)."
+Enter a custom name for your keylogger (e.g., "MyKeylogger").
+Click on "Generate" to get the app password.
+Copy the generated app password.
+Replace FROM_EMAIL_PASSWORD in your keylogger code with the generated app password.
+After making the changes, run your keylogger again and see if it can send emails without the "Connection unexpectedly closed" error.
+
 However, if you've made some money using my tools or just want to encourage me to continue creating stuff, please consider giving back on 
-**BTC Wallet : 1NqDy1VdF5wkvxBcojbADWexPhPzza6LGF** my efforts and help it grow by buying me coffee - but only if you're definitely able to! 😊🎉
-
 ---
-
-### Contact Me !
-
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/yunus-ayd%C4%B1n-b9b01a18a/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/aydinnyunus/WhatsappBOT)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/aydinyunus_/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="LinkedIn">](https://twitter.com/aydinnyunuss)
-
-
-## Another Projects : 
-
-•**WHATSAPP BOT** : https://github.com/aydinnyunus/WhatsappBOT
-
-•**MACHINE LEARNING** : https://github.com/aydinnyunus/Machine-Learning
-
-•**FACE RECOGNITION SECURITY** : https://github.com/aydinnyunus/FaceRecognitionSecurity
 
